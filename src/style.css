@@ -1,0 +1,17 @@
+#doboz1 {
+    background-color: aquamarine;
+    width: 20px;
+    height: 150 px;
+    animation: valami1 10s;
+
+}
+
+@keyframes valami1 {
+    from {height: 0;
+    }
+    to {
+        height: 150px;
+    }
+
+    
+}
